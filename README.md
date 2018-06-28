@@ -5,7 +5,7 @@ Google CTF 2018 - </96Developer>
     Login: https://capturetheflag.withgoogle.com/?
     Join with this key : -LFIfTjuZILx9Osq2Mg2
 
-----crypto----
+----crypto----\n
 better ZIP : CTF{SomethingSomthing1337}
 DM Collision : CTF{7h3r35 4 f1r3 574r71n6 1n my h34r7 r34ch1n6 4 f3v3r p17ch 4nd 175 br1n61n6 m3 0u7 7h3 d4rk}
 DogeStore : CTF{LLLLLLLLL___EEEEE____RRRRRRRRRRR_OYYYYYYYYYY_JEEEEEEENKKKINNSSS}
