@@ -1,4 +1,4 @@
-# Google-CTF-2k
+# Google-CTF-2018
 
 Google CTF 2018 - </96Developer>
 
@@ -7,10 +7,15 @@ Google CTF 2018 - </96Developer>
 
 ----crypto----
         better ZIP : CTF{SomethingSomthing1337}
+        
         DM Collision : CTF{7h3r35 4 f1r3 574r71n6 1n my h34r7 r34ch1n6 4 f3v3r p17ch 4nd 175 br1n61n6 m3 0u7 7h3 d4rk}
+        
         DogeStore : CTF{LLLLLLLLL___EEEEE____RRRRRRRRRRR_OYYYYYYYYYY_JEEEEEEENKKKINNSSS}
+        
         MITM : CTF{kae3eebav8Ac7Mi0RKgh6eeLisuut9oP}
+        
         Perfect Secrecy : CTF{h3ll0__17_5_m3_1_w45_w0nd3r1n6_1f_4f73r_4ll_7h353_y34r5_y0u_d_l1k3_70_m337}
+        
 
 ---pwn---
         execve sandbox : CTF{Time_to_read_that_underrated_Large_Memory_Management_Vulnerabilities_paper}
